@@ -1,0 +1,2 @@
+# Angular2-Questionnaire
+采用Angular-seed作为前端Angular的脚手架，它已整合好如Gulp，SystemJS，Protractor等各类前端工具库；采用ng2-bootstrap作为前端的UI样式库；采用json-server作为后端服务器
